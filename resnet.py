@@ -230,5 +230,5 @@ class Resnet:
 if __name__=='__main__':
     res=Resnet(50,50,400,20000,1000)
     res.train()
-    print("test")
+    #print("test")
     #res.test()
